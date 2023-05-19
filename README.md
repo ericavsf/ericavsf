@@ -1,7 +1,7 @@
 ### Olá mundo, eu sou a Érica Ferreira! 👋
 - 🌱 Estudante de Tecnologia em Sistemas para internet.
 - 🕮 Estudante Front-end.
-- 🏠 Moro no Rio de Janeiro.
+- 🏠 Moro em Mogi das Cruzes.
 - 🎂 Nasci dia 22 de setembro de 1981.
 - 📧 Email: ericavsf2010@hotmail.com
 
